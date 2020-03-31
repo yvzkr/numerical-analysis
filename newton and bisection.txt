@@ -130,7 +130,13 @@ double newtonRapsonRecursive(double x0,double tol){
 	}
 	else
 		return newtonRapsonRecursive(x1,tol);
+	
+
+	
 }
+
+
+
 
 
 int main(int argc, char *argv[]) {
